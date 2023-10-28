@@ -5,7 +5,7 @@
   "repository": "git@github.com:luisfdresch/gh_actions_tuto.git",
   "scripts": {
     "build": "echo 'built'",
-    "test": "node ./tests/dummy.js",
+    "test": "node ./tests/dummy.js"
 	},
   "author": "luisfdresch",
   "License": "MIT"
